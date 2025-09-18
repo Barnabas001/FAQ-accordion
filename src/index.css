@@ -21,16 +21,6 @@ body {
   min-height: 100vh;
 }
 
-/* @media (max-width: 550px) {
-  body {
-    background: url("../public/assets/images/background-pattern-mobile.svg")
-        no-repeat top center,
-      hsl(275, 100%, 97%);
-
-    background-size: contain;
-    padding: 1rem;
-  }
-} */
 
 .container {
   background-color: hsl(0, 100%, 100%);
@@ -38,10 +28,7 @@ body {
   max-width: 700px;
   border-radius: 12px;
 
-  /* background-image: url("../public/assets/images/background-pattern-desktop.svg"); 
-  background-size: cover; 
-  background-repeat: no-repeat; 
-  background-position: center; */
+  
 }
 
 .faq-header {
