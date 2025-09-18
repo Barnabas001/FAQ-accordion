@@ -16,7 +16,7 @@ This project is a responsive FAQ accordion built with **React**. It was styled t
 ---
 
 ## 🛠️ Tech Stack
-- **React (Vite or CRA)**
+- **React**
 - **CSS3** for styling and responsiveness
 - Static assets served from React’s **public** folder
 
